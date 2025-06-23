@@ -4,7 +4,7 @@
 
 # 「使いたくなる」サービスを、ユーザー目線とチームワークで生み出すフロントエンドエンジニア
 
-## 👋 About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
 - ユーザー目線と「使いたくなる」体験、そしてチームワークを大切にしています。
 - 実務ではディレクター・デザイナーと協働し、WebプロダクトのUI/UX改善を行っています。
