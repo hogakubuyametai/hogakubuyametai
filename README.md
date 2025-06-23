@@ -23,7 +23,7 @@ Spotify APIを活用し、ライブ予定からアーティストや周辺アー
 
 ## 🛠 Skills & Learning
 
-<img alt="skills" src="https://skillicons.dev/icons?theme=dark&i=html,css,js,vue,nuxtjs,react,tailwind, supabase, figma" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=9&i=html,css,js,vue,nuxtjs,react,tailwind,supabase,figma" />
 
 - **Main:** Vue.js, Nuxt
 - **Learning:** React, Next
