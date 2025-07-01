@@ -18,7 +18,7 @@
 Spotify APIを活用し、ライブ予定からアーティストや周辺アーティストを深堀りすることができるWebアプリです。
 
 - 技術: Vue.js / Nuxt / Tailwind CSS / Supabase / Spotify API / Vercel
-- [GitHubリポジトリ](https://github.com/hogakubuyametai/gigdig)
+- [@hogakubuyametai / gigdig](https://github.com/hogakubuyametai/gigdig)
 <!-- スクリーンショットやGIFをここに追加するとより伝わります！ -->
 
 ## 🛠 Skills & Learning
