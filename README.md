@@ -30,7 +30,7 @@ Spotify APIを活用し、ライブ予定からアーティストや周辺アー
 
 ## ✏️ Output
 
-- 技術記事執筆中（Qiitaにて近日公開予定）
+- [Qiita](https://qiita.com/tkdev1115)
 <!-- Qiitaのリンクを後日追記してください -->
 
 ## 🏃‍♀️ Activities
